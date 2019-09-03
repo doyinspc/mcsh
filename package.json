@@ -2,6 +2,10 @@
   "name": "now-ui-kit-react",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "npm": "6.10.3",
+    "node": "10.16.0"
+  },
   "dependencies": {
     "axios": "^0.19.0",
     "moment": "2.24.0",
