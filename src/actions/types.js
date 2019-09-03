@@ -1,4 +1,5 @@
-export const API_PATH = 'http://localhost:8000/api';
+//export const API_PATH = 'http://localhost:8000/api';
+export const API_PATH = 'https://mcshbackend.herokuapp.com/api';
 export const MEDIA_PATH = 'http://localhost:8000';
 
 export const CATEGORY_GET = 'CATEGORY_GET';
